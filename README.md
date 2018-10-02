@@ -18,7 +18,7 @@
    1. [Repository](https://github.com/ATHBK/CoordinatorMenu#repository)
    2. [Dependency](https://github.com/ATHBK/CoordinatorMenu#dependency)
 2. [Basic Usage](https://github.com/ATHBK/CoordinatorMenu#basic-usage)
-   1. [UltimateTabLayout XML](https://github.com/ATHBK/CoordinatorMenu#coordinatormenu-xml)
+   1. [CoordinatorMenu XML](https://github.com/ATHBK/CoordinatorMenu#coordinatormenu-xml)
    2. [Attributes](https://github.com/ATHBK/CoordinatorMenu#coordinatormenu-attr )
 3. [Init Java](https://github.com/ATHBK/CoordinatorMenu#init-from-java)
 4. [License](https://github.com/ATHBK/CoordinatorMenu#license)
