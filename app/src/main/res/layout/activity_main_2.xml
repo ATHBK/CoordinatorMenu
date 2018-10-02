@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.athbk.coordinatormenu.CoordinatorMenuLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/menuLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:menu_big_padding_bottom="16dp"
+    app:menu_big_padding_top="16dp"
+    app:menu_big_size="50dp"
+    app:menu_padding_item="16dp"
+    app:menu_padding_left="82dp"
+    app:menu_size="25dp"
+    app:menu_title_text_position="bottom"
+    app:menu_title_text_color="@android:color/white"
+    app:menu_title_text_style="bold"
+    app:menu_background_resource="@drawable/background_full">
+
+</com.athbk.coordinatormenu.CoordinatorMenuLayout>
+

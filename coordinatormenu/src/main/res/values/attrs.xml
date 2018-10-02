@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CoordinatorMenuLayout">
+
+        <!-- attr normal menu item-->
+        <attr name="menu_size" format="dimension" />
+        <attr name="menu_padding_left" format="dimension" />
+        <attr name="menu_padding_right" format="dimension" />
+        <attr name="menu_padding_item" format="dimension" />
+
+        <!--attr big size menu item-->
+        <attr name="menu_big_size" format="dimension" />
+        <attr name="menu_big_padding_top" format="dimension" />
+        <attr name="menu_big_padding_bottom" format="dimension" />
+
+        <attr name="menu_background_resource" format="reference"/>
+        <attr name="menu_background_color" format="reference"/>
+
+        <attr name="menu_background_spacing_resource" format="reference"/>
+        <attr name="menu_background_spacing_color" format="reference"/>
+
+        <attr name="menu_title_text_size" format="dimension"/>
+        <attr name="menu_title_text_position" format="enum" >
+            <enum name="none" value="0"/>
+            <enum name="bottom" value="1"/>
+            <!--<enum name="top" value="2"/>-->
+        </attr>
+
+        <attr name="menu_title_text_color" format="color"/>
+        <attr name="menu_title_padding_top" format="dimension"/>
+        <attr name="menu_title_padding_bottom" format="dimension"/>
+        
+        <attr name="menu_ratio_change_view" format="float"/>
+        <attr name="menu_ratio_max_width_title" format="float"/>
+
+        <attr name="menu_title_text_style" format="enum">
+            <enum name="none" value="0"/>
+            <enum name="bold" value="1"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
